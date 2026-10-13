@@ -186,3 +186,5 @@ SSE or WebSocket here? What happens when the server disappears?
 Show me the request in DevTools. Change this behaviour now.
 
 View source. Then change it.
+
+#test line adding
